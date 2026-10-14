@@ -32,11 +32,3 @@ This project provides data-driven insights into student registrations and financ
 * **Data Visualizations:** Slicers, Cards, Horizontal Bar Charts, Gauge Charts, Clustered Column Charts, Donut Charts[cite: 1]
 
 ---
-
-## 🗂️ Project Structure
-
-```text
-├── dataset/            # Raw data files (CSV/Excel used for the report)
-├── dashboard/          # Power BI project file (.pbix)
-├── screenshots/        # Dashboard preview images
-└── README.md           # Project documentation
